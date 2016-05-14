@@ -1,2 +1,3 @@
-# FirstAngularJSApp
-Learning Angular JS with a Tutorial
+# Learning AngularJS
+
+This project uses AngularJS and angular-seed project code.
